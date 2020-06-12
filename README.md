@@ -7,6 +7,7 @@
 ## *OBJETIVO:*
 
 -Demostrar experimentalmente la Leyes de Voltaje y de Corriente de Kirchhoff.
+
 -Familiarizar al estudiante en el uso de instrumentos del laboratorio.
 
 ## *LISTA DE MATERIALES:*
