@@ -45,8 +45,18 @@ DIAGRAMA3
 Fig. 3. Circuito resistivo mixto
 2.	Medir y registrar en la tabla la caída de voltaje y corriente en cada uno de los elementos del circuito.
 
-|VARIABLE|VALOR CALCULADO| VALOR MEDIDO|
-|VR1(V)|2,053|2,046|
+| Variable | Valor Calculado | Valor Medido |
+| ----- | ----- | ----- |
+| VR1 (V) | 2,053 | 2,046 |
+| IR1(mA) | 2,053 | 2,056 |
+| VR2(V) | 4,251 | 4,223 |
+| IR2(mA) | 1,09 |1,088|
+| VR3(V) | 2,1255 | 2,115 |
+| IR3 (mA) | 0,963 | 0,964 |
+| VR4(V) | 2,1255 | 2,115|
+| IR4(mA) |  0,963 | 0,964 |
+| VR5(V) | 3,696 | 3,73|
+| IR5(mA) | 2,053 | 2,046|
 
 
 ## *DIAGRAMA*
