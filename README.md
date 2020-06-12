@@ -75,24 +75,19 @@ V1+V2+V3+…+Vn=0
 
 ## *CONCLUSIONES*
 
--Los datos calculados que se obtuvo durante la practica simulada son similares a los obtenidos teoricamente.
+-	Al realizar la suma de los voltajes en cada malla damos por hecho que La ley de Voltaje de Kirchoff se cumple, ya que los datos que obtuvimos dos reflejan una diferencia de solamente 0.004 y 0.005 voltios.
 
+-	Se ha comprobado la Ley de corriente de Kirchoff mediante el cálculo en cada nodo de las corrientes que entran con las corrientes que salen. Donde se ha obtenido un error absoluto de 0.004 mA en cada nodo, esto se debe principalmente a que los valores que nos arroja el instrumento, de cierta forma puede variar en un pequeño intervalo.
 
--La malla con mayor intensidad de corriente es la que contiene el voltaje de 18v
-
-
--La malla con menor intensidad de corriente es la que contiene el voltaje de 5v
-
-
--Al final se pudo comprobar la ley de Kirchoff que nos dice que las corrientes que entran en un nodo son igual a las que salen.
-
-
--En todo este circuito se encontraron 5 corrientes. 
-
+-	Se obtuvo errores entre los valores medidos y los valores calculados, pero están dentro del rango de error que puede cometer el instrumento, por tanto, se considera que es aceptable.
 
 ## *RECOMENDACIONES*
 
-Se recomienda utilizar de manera correcta cualquier simulador para obtener los resultados correctos
+-	Es necesario asegurar los valores que asignamos tanto a las fuentes de voltaje como a las resistencias, ya que se suele cometer errores con las unidades de medida, de igual forma que la conexión esté bien hecha para que las mediciones sean lo más exactas posibles.
+
+-	Tener en cuenta claros los conceptos y a qué se refiere cada ley para comprender de mejor manera la práctica realizada.
+
+-	Tener mucho cuidado con las fuentes de voltaje manejadas, ya que pueden ser peligrosas. También estar al tanto de las capacidades de las resistencias, ya que cuando se realice un circuito real podemos dañar algunos elementos si no los colocamos adecuadamente.
 
 
 ## *CRONOGRAMA*
@@ -100,10 +95,6 @@ Se recomienda utilizar de manera correcta cualquier simulador para obtener los r
 ![alt text](https://github.com/Kevi7k/Practica/blob/master/Cronograma/Cronograma.jpeg)
 
 ## *BIBLIOGRAFÍA*
-
-FISICALAB. (15 de 01 de 2020). Obtenido de https://www.fisicalab.com/apartado/resistencia-electrica-conductor
-Gómez, A. J. (s.f.). Prof. Recuperado el 10 de 06 de 20210, de http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf
-
 
 Charles K. Alexander, Matthew N. O. Sadiku, Fundamentos de circuitos eléctricos. Tercera edición. México: McGrawHill, 2004.
 
