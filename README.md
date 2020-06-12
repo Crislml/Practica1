@@ -57,6 +57,10 @@ Fig. 3. Circuito resistivo mixto
 | IR4(mA) |  0,963 | 0,964 |
 | VR5(V) | 3,696 | 3,73|
 | IR5(mA) | 2,053 | 2,046|
+Tabla  I. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
+| Voltaje (V)| Trayectoria (1) | Trayectoria (2)|
+| ----- | Calculado|Medido| Calculado| Medido|
 
 
 ## *DIAGRAMA*
