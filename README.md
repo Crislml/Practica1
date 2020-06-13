@@ -59,12 +59,10 @@ Fig. 3. Circuito resistivo mixto
 | IR5(mA) | 2,053 | 2,046|
 
 Tabla  I. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
-| parameters  | desc                 |
-| :---------  | :------------------- |
-| -wsddsdsdssd | --word sddsdssd| Parameter for Wsdsdsdssdsdord   |
 
-| Trayectoria (1) | Trayectoria (2)|
-|-----------------|-------------------|  
+
+ Voltaje| Trayectoria (1) | Trayectoria (2)|
+        |-----------------|-------------------|  
                                      
 | Calculado|Medido| Calculado| Medido |
 |---------|--------|--------|---------|
