@@ -62,6 +62,7 @@ Tabla  I. Resultados obtenidos de voltaje y corriente, en cada elemento del circ
 
 | Trayectoria (1) | Trayectoria (2)|
 |-----------------|----------------|
+
 | Calculado|Medido| Calculado| Medido |
 |---------|--------|--------|---------|
 
