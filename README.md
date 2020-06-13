@@ -1,7 +1,7 @@
 # Practica1
 
 ## *PLANTEAMIENTO DEL PROBLEMA*
-
+Durante las últimas semanas hemos sido participes de conocer una nueva rama de la carrera de Ingeniería Mecatrónica, los circuitos eléctricos, se ha analizado y resuelto una variedad de circuitos eléctricos. Para la resolución de los mismos tenemos que recurrir a diferentes leyes, sin embargo, es necesario  demostrarlas para su mejorar comprensión, en este caso es de sumo interés comprobar que las leyes de Voltaje y Corriente de Kirchhoff se cumplen dentro del análisis de nuestros circuitos.
 
 
 ## *OBJETIVO:*
@@ -60,13 +60,13 @@ Fig. 3. Circuito resistivo mixto
 
 Tabla  I. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
-![alt text](https://github.com/Kevi7k/Practica1/blob/master/Tablas/Tabla1.png)
 
-![alt text](https://github.com/Kevi7k/Practica1/blob/master/Tablas/Tabla2.png)
+ | Trayectoria (1) | Trayectoria (2)|
+ |-----------------|-------------------|  
+                                     
+| Calculado|Medido| Calculado| Medido |
+|---------|--------|--------|---------|
 
-
-## *RESULTADOS OBTENIDOS*
-![alt text](https://github.com/Kevi7k/Practica1/blob/master/Tablas/Tabla3.png)
 
 ## *DIAGRAMA*
 
