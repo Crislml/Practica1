@@ -64,6 +64,8 @@ Tabla  I. Resultados obtenidos de voltaje y corriente, en cada elemento del circ
 
 ![alt text](https://github.com/Kevi7k/Practica1/blob/master/Tablas/Tabla2.png)
 
+![alt text](https://github.com/Kevi7k/Practica1/blob/master/Tablas/Tabla3.png)
+
 ## *DIAGRAMA*
 
 
